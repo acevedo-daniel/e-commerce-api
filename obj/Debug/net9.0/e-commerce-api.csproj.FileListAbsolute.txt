@@ -161,3 +161,4 @@ D:\Users\Daniel\Projects\Academy\University\C#\e-commerce-api\obj\Debug\net9.0\r
 D:\Users\Daniel\Projects\Academy\University\C#\e-commerce-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Users\Daniel\Projects\Academy\University\C#\e-commerce-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Users\Daniel\Projects\Academy\University\C#\e-commerce-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Daniel\Projects\Academy\University\C#\e-commerce-api\obj\Debug\net9.0\e-commerce-api.sourcelink.json
